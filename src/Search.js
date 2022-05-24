@@ -16,7 +16,7 @@ export default function Search() {
             </form>{" "}
           </div>
 
-          <div className="col-2">
+          <div className="col-4">
             <button className="btn btn-primary">Search</button>
           </div>
           <div className="col-4">
